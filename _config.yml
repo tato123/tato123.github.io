@@ -12,12 +12,12 @@ baseurl: /
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-55930909-2'
 disqus: true
-disqus_shortname: 'your-disqus-shortname'
+disqus_shortname: 'tato123githubio.disqus.com'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+author:         'Jonathan Fontanez'
+authorTwitter:  '@jonfontanez'
 
 permalink:       /:year/:title/
 
