@@ -6,13 +6,13 @@ aboutPage: true
 
 markdown: redcarpet
 highlighter: pygments
-
+gems: [jekyll-paginate]
 paginate: 20
 baseurl: /
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-55930909-2'
 disqus: true
-disqus_shortname: 'tato123githubio.disqus.com'
+disqus_shortname: 'tato123githubio'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
